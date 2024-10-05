@@ -1,0 +1,120 @@
+.div1 {
+    height: 250px;
+    width: 270px;
+    border: 1px solid grey;
+    border-radius: 40px;
+    background-image: url(../assets/Bg-cards.png);
+    background-size: cover;
+    display: flex;
+    margin-top: -280px;
+}
+
+.skill-section1 {
+    height: 110px;
+    width: 220px;
+    border: 1px solid rgba(128, 128, 128, 0.34);
+    border-radius: 30px;
+    margin: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.circle3 {
+    background-image: url(../assets/Linked-in.png);
+    background-size: 60px;
+    background-position: center;
+    height: 70px;
+    width: 70px;
+    border: 1px solid grey;
+    border-radius: 50%;
+    margin-left: 32px;
+}
+
+.circle4 {
+    background-image: url(../assets/Twitter.png);
+    background-size: 90px;
+    background-position: center;
+    height: 71px;
+    width: 71px;
+    border: 1px solid grey;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+.div1 p {
+    margin-left: -235px;
+    margin-top: 160px;
+    color: rgb(105, 105, 105);
+}
+
+.div1 h4 {
+    color: white;
+    margin-left: -105px;
+    margin-top: 190px;
+}
+
+.section-d {
+    background-image: url(../assets/Bg-cards.png);
+    background-size: cover;
+    width: 570px;
+    height: 250px;
+    border: 1px solid grey;
+    border-radius: 30px;
+    margin-top: -248px;
+    margin-left: 291px;
+}
+
+.stars1 {
+    height: 130px;
+    width: 130px;
+    background-image: url(../assets/Lamp.png);
+    background-size: cover;
+}
+
+.lets1 {
+    color: white;
+    margin-top: -40px;
+    margin-left: 30px;
+    font-size: 50px;
+}
+
+.work1 {
+    color: white;
+    margin-top: -20px;
+    margin-left: 30px;
+    font-size: 50px;
+}
+
+.together1 {
+    color: rgb(0, 113, 218);
+    margin-top: -68px;
+    margin-left: 155px;
+    font-size: 50px;
+}
+
+.signatureA {
+    width: 270px;
+    height: 250px;
+    border: 1px solid grey;
+    background-image: url(../assets/signature.png);
+    background-size: cover;
+    margin-left: 880px;
+    border-radius: 30px;
+    margin-top: -250px;
+    background-position: -40px -20px;
+}
+
+.signatureA p {
+    margin-top: 170px;
+    color: rgb(115, 115, 115);
+    font-size: 14px;
+    margin-left: 5px;
+    display: flex;
+}
+
+.signatureA h5 {
+    margin-left: 5px;
+    color: white;
+    margin-top: -10px;
+    font-size: 25px;
+}

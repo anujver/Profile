@@ -1,0 +1,100 @@
+.Cards {
+    height: 600px;
+    width: 1150px;
+    margin-left: 160px;
+    border-radius: 30px;
+    margin-top: 20px;
+    display: flex;
+}
+
+.Internship {
+    height: 300px;
+    width: 600px;
+    background-image: url(../assets/Bg-cards.png);
+    background-size: cover;
+    border-radius: 30px;
+    border: 1px solid grey;
+    margin-left: -12px;
+}
+
+.Education {
+    height: 300px;
+    width: 600px;
+    background-image: url(../assets/Bg-cards.png);
+    background-size: cover;
+    border-radius: 30px;
+    margin-left: 20px;
+    margin-right: -12px;
+    border: 1px solid grey;
+    
+}
+
+.Internship h6 {
+    color: white;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+.Internship .Month1 {
+    color: rgb(128, 127, 127);
+    margin-left: 30px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.Internship .skills {
+    color: white;
+    margin-left: 30px;
+    margin-top: -10px;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.Internship .company1 {
+    color: rgb(128, 127, 127);
+    margin-left: 30px;
+    margin-top: -20px;
+    font-weight: 400;
+}
+
+.Internship .Month2 {
+    color: rgb(128, 127, 127);
+    margin-left: 30px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.Education h6 {
+    color: white;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+.Education .Month1 {
+    color: rgb(128, 127, 127);
+    margin-left: 30px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.Education .skills {
+    color: white;
+    margin-left: 30px;
+    margin-top: -10px;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.Education .company1 {
+    color: rgb(128, 127, 127);
+    margin-left: 30px;
+    margin-top: -20px;
+    font-weight: 400;
+}
+
+.Education .Month2 {
+    color: rgb(128, 127, 127);
+    margin-left: 30px;
+    margin-top: 30px;
+    font-weight: bold;
+}

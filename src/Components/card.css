@@ -1,0 +1,141 @@
+.container {
+    margin: 2px 200px 0px 150px;
+}
+
+.card {
+    width: 550px;
+    height: 300px;
+    margin-left: 180px;
+    margin-top: 70px;
+    background: transparent;
+    backdrop-filter: blur(5px);
+    color: white;
+    border: 0.5px solid grey;
+    border-radius: 30px;
+    background-image: url(../assets/Bg-cards.png);
+    display: flex;
+}
+
+.photo {
+    background-image: url(../assets/Photo.jpg);
+    background-size: cover;
+    margin-top: 50px;
+    margin-left: 40px;
+    height: 200px;
+    width: 200px;
+    border: 1px solid white;
+    border-radius: 20px;
+    display: flex;
+}
+
+.content p {
+    color: rgb(59, 59, 59);
+    display: flex;
+    margin-left: 275px;
+    margin-top: -175px;
+}
+
+.content h2 {
+    margin-left: 272px;
+    margin-top: -15px;
+}
+
+.content h6 {
+   margin-left: 272px;
+   color: rgb(59, 59, 59);
+   margin-top: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+.skils {
+    height: 50px;
+    width: 560px;
+    border: 0.5px solid grey;
+    display: flex;
+    margin-left: 750px;
+    border-radius: 50px;
+    margin-top: -295px;
+    background-image: url(../assets/Bg-cards.png);
+}
+
+.skils2 {
+     margin-left: 20px;
+     margin-top: 10px;
+     color: white;
+     width: 520px;
+} 
+
+.signature1 {
+    width: 270px;
+    height: 250px;
+    border: 1px solid grey;
+    background-image: url(../assets/signature.png);
+    background-size: cover;
+    margin-left: 752px;
+    border-radius: 30px;
+    margin-top: 25px;
+    background-position: -40px -20px;
+}
+
+
+.signature1 p {
+    margin-top: 170px;
+    color: rgb(115, 115, 115);
+    font-size: 14px;
+    margin-left: 5px;
+    display: flex;
+}
+
+.signature1 h5 {
+    margin-left: 5px;
+    color: white;
+    margin-top: -10px;
+    font-size: 25px;
+}
+
+.signature2 {
+    width: 270px;
+    height: 250px;
+    border: 1px solid grey;
+    background-image: url(../assets/Bg-cards.png);
+    background-size: cover;
+    margin-left: 1040px;
+    border-radius: 30px;
+    margin-top: -246px;
+    background-position: -40px -20px;
+} 
+
+.bg-image {
+    height: 150px;
+    width: 190px;
+    margin-top: 20px;
+    margin-left: 25px;
+    background-image: url(../assets/Projects.png);
+    background-size: cover;
+    background-position: -4px -15px;
+}
+
+.signature2 p {
+    margin-top: 5px;
+    color: rgb(115, 115, 115);
+    font-size: 14px;
+    margin-left: 10px;
+    display: flex;
+}
+
+.signature2 h5 {
+    margin-left: 10px;
+    color: white;
+    margin-top: -10px;
+    font-size: 23px;
+}
+
+@media (max-width:768px) {
+  
+}
+

@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+}
+
+.container {
+    margin: 2px 200px 0px 150px;
+}
+
+.navbar {
+    margin-top: 10px;
+    background-color: black;
+}
+
+.Logo {
+    color: white;
+    margin-left: 40px;
+}
+
+.Home {
+    color: white;
+    margin-left: 240px;
+}
+
+.About {
+    color: #ffffff;
+    margin-left: 60px;
+}
+
+.Contact {
+    color: white;
+    margin-left: 60px;
+}
+
+.nav-item-btn {
+    margin-left: 250px;
+}
+
+.btn {
+    border-radius: 15px;
+    width: 100px;
+    height: 40px;
+}
+
+@media (max-width:768px) {
+    .container {
+        width: 100vw;
+    }
+    
+    .navbar button {
+       margin-right: -150px;
+    }
+
+}

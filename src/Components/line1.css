@@ -1,0 +1,145 @@
+.Holder {
+    height: 500px;
+    width: 1200px;
+    margin-top: 50px;
+    border-radius: 30px;
+    margin-left: 179px;
+    display: flex;
+}
+
+.project1 {
+     background-image: url(../assets/Bg-cards.png);
+     background-size: cover;
+     height: 360px;
+     width: 370px;
+     border: 1px solid grey;
+     border-radius: 30px;
+     margin-left: -18px;
+}
+
+.P1photo {
+    background-image: url(../assets/Photo1.jpg);
+    background-size: cover;
+    height: 260px;
+    width: 340px;
+    border: 1px solid grey;
+    border-radius: 20px;
+    margin-left: 14.5px;
+    margin-top: 14.5px;
+}
+
+.project1 h5 {
+    font-size: 16px;
+    font-weight: 500;
+    color: grey;
+    margin-left: 20px;
+    margin-top: 12px;
+}
+
+.project1 h3 {
+    font-weight: 500;
+    margin-left: 20px;
+    margin-top: -5px;
+    font-size: 22px;
+}
+
+.project2 {
+    background-image: url(../assets/Bg-cards.png);
+    background-size: cover;
+    height: 360px;
+    width: 370px;
+    border: 1px solid grey;
+    border-radius: 30px;
+    margin-left: 15px;
+    margin-top: 120px;
+}
+
+.P2photo {
+   background-image: url(../assets/photo2.jpg);
+   background-size: cover;
+   height: 260px;
+   width: 340px;
+   border: 1px solid grey;
+   border-radius: 20px;
+   margin-left: 12px;
+   margin-top: 14.5px;
+}
+
+.project2 h5 {
+   font-size: 16px;
+   font-weight: 500;
+   color: grey;
+   margin-left: 20px;
+   margin-top: 12px;
+}
+
+.project2 h3 {
+   font-weight: 500;
+   margin-left: 20px;
+   margin-top: -5px;
+   font-size: 22px;
+}
+
+.project3 {
+    background-image: url(../assets/Bg-cards.png);
+    background-size: cover;
+    height: 420px;
+    width: 365px;
+    border: 1px solid grey;
+    border-radius: 30px;
+    margin-left: 15px;
+    margin-top: 120px;
+}
+
+.P3photo {
+   background-image: url(../assets/photo3.jpg);
+   background-size: cover;
+   height: 320px;
+   width: 338px;
+   border: 1px solid grey;
+   border-radius: 20px;
+   margin-left: 14px;
+   margin-top: 14.5px;
+}
+
+.project3 h5 {
+   font-size: 16px;
+   font-weight: 500;
+   color: grey;
+   margin-left: 20px;
+   margin-top: 12px;
+}
+
+.project3 h3 {
+   font-weight: 500;
+   margin-left: 20px;
+   margin-top: -5px;
+   font-size: 22px;
+}
+
+.Heading {
+    margin-left: 660px;
+    margin-top: -500px;
+    height: 550px;
+ }
+ 
+ .Heading h1 {
+     font-size: 80px;
+     color: white;
+ }
+
+ .Heading :hover {
+    color: bisque;
+ }
+
+ .project1 :hover {
+    color: rgb(0, 196, 0);
+ }
+
+ .project2 :hover {
+    color: rgb(0, 17, 199);
+ }
+
+ .project3 :hover {
+    color: red;
+ }

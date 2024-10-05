@@ -1,0 +1,58 @@
+.footer {
+     margin-top: 100px;
+ 
+}
+
+.footer h1 {
+    color: white;
+    margin-left: 460px;
+}
+
+.links {
+    margin-top: 30px;
+    font-size: 15px;
+}
+
+.home {
+    margin-left: 380px;
+    margin-top: 50px;
+    color: rgba(255, 255, 255, 0.683);
+}
+
+.projects {
+    margin-left: 50px;
+    margin-top: 50px;
+    color: rgba(255, 255, 255, 0.683);
+}
+
+.contactme {
+    margin-left: 50px;
+    margin-top: 50px;
+    color: rgba(255, 255, 255, 0.683);
+}
+
+.aboutme {
+    margin-left: 50px;
+    margin-top: 50px;
+    color: rgba(255, 255, 255, 0.683);
+}
+
+a:hover {
+    color: white;
+}
+
+.links p {
+     color: rgba(255, 255, 255, 0.683);
+     margin-left: 480px;
+     margin-top: 30px;
+}
+
+.links .anuj {
+    margin-left: 640px;
+    margin-top: -37.5px;
+}
+
+
+.temprory {
+    height: 50px;
+}

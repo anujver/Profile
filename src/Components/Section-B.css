@@ -1,0 +1,102 @@
+.section-B {
+    background-image: url(../assets/Bg-cards.png);
+    background-size: cover;
+    width: 560px;
+    height: 250px;
+    border: 1px solid grey;
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-left: 175px;
+}
+
+.company {
+    background-image: url(../assets/Rishus.jpeg);
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    border: 1px solid grey;
+    border-radius: 30px;
+    margin-left: 12px;
+    margin-top: 25px;
+}
+
+.section-B h6 {
+    margin-left: 230px;
+    margin-top: -180px;
+    color: rgb(255, 255, 255);
+    
+}
+
+.section-B h6 {
+    margin-left: 230px;
+    margin-top: -180px;
+    color: rgb(255, 255, 255);
+    
+}
+
+.section-B h6 {
+    margin-left: 230px;
+    margin-top: -180px;
+    color: rgb(255, 255, 255);
+    
+}
+
+.section-B h5 {
+    margin-left: 230px;
+    margin-top: 15px;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+}
+
+
+.section-B p {
+    margin-left: 230px;
+    color: rgb(143, 143, 143);
+}
+
+.section-c {
+    background-image: url(../assets/Bg-cards.png);
+    background-size: cover;
+    width: 570px;
+    height: 250px;
+    border: 1px solid grey;
+    border-radius: 30px;
+    margin-top: -250px;
+    margin-left: 750px;
+}
+
+.stars {
+    height: 130px;
+    width: 130px;
+    background-image: url(../assets/Lamp.png);
+    background-size: cover;
+}
+
+.lets {
+    color: white;
+    margin-top: -40px;
+    margin-left: 30px;
+    font-size: 50px;
+}
+
+.work {
+    color: white;
+    margin-top: -20px;
+    margin-left: 30px;
+    font-size: 50px;
+}
+
+.together {
+    color: rgb(0, 113, 218);
+    margin-top: -68px;
+    margin-left: 155px;
+    font-size: 50px;
+}
+
+
+
+
+
+.temprory {
+    height: 200px;
+}

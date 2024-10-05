@@ -1,0 +1,88 @@
+.LetsWorkTogether {
+    height: 600px;
+    width: 700px;
+    border: 1px solid grey;
+    background-image: url(../assets/Bg-cards.png);
+    margin-left: 600px;
+    margin-top: -700px;
+    border-radius: 30px;
+}
+
+.LetsWorkTogether .white {
+    color: white;
+    margin-left: 35px;
+    margin-top: 30px;
+    font-size: 45px;
+}
+
+.LetsWorkTogether .blue {
+    color: rgb(0, 119, 255);
+    margin-left: 248px;
+    margin-top: -62px;
+    font-size: 45px;
+}
+
+.name {
+    color: white;
+    font-size: 18px;
+    height: 47px;
+    width: 600px;
+    margin-left: 35px;
+    margin-top: 25px;
+    border-radius: 10px;
+    background-color: rgba(128, 128, 128, 0.217);
+    border: 0.2px solid rgba(128, 128, 128, 0.217);
+    padding-left: 25px;
+}
+
+.email {
+    color: white;
+    font-size: 18px;
+    height: 46px;
+    width: 600px;
+    margin-left: 35px;
+    margin-top: 25px;
+    border-radius: 10px;
+    background-color: rgba(128, 128, 128, 0.217);
+    border: 0.2px solid rgba(128, 128, 128, 0.217);
+    padding-left: 25px;
+}
+
+.Subject {
+    color: white;
+    font-size: 18px;
+    height: 80px;
+    width: 600px;
+    margin-left: 35px;
+    margin-top: 25px;
+    border-radius: 10px;
+    background-color: rgba(128, 128, 128, 0);
+    border: 1px solid rgba(128, 128, 128, 0);
+    padding-left: 5px;
+}
+
+.Message {
+    color: white;
+    font-size: 18px;
+    height: 150px;
+    width: 600px;
+    margin-left: 35px;
+    margin-top: 25px;
+    border-radius: 10px;
+    background-color: rgba(128, 128, 128, 0);
+    border: 0.2px solid rgba(128, 128, 128, 0);
+    padding-left: 5px;
+}
+
+.btn1 {
+    height: 40px;
+    width: 130px;
+    margin-top: 20px;
+    margin-left: 35px;
+    border-radius: 10px;
+    border: 1px solid rgba(128, 128, 128, 0.416);
+    background-color: rgba(128, 128, 128, 0.416);
+    color: white;
+    font-weight: 500;
+    font-size: 14px;
+}

@@ -1,0 +1,17 @@
+.headingResume h1 {
+    color: white;
+    margin-left: 620px;
+    margin-top: 30px;
+    font-size: 70px;
+}
+
+.resume {
+    background-image: url(../assets/Resume.jpg);
+    background-size: cover;
+    height: 1000px;
+    width: 800px;
+    border: 1px solid grey;
+    border-radius: 40px;
+    margin-left: 350px;
+    margin-top: 50px;
+}
