@@ -12,7 +12,7 @@ const SectionB = () => {
           Iam currently working as a intern in <br /> RISHUS INFOTECH INDORE..
         </p>
         <a href="#">
-          <h5>READ MORE</h5>
+          <h5>(Present)</h5>
         </a>
       </div>
       <a href="/contact">

@@ -163,6 +163,24 @@
     margin-top: -5px;
 }
 
+@media (max-width: 768px) {
+
+    .card1 {
+      display: none;
+    }
+
+    .card2 {
+        margin-left: 135px;
+        margin-top: 30px;
+        width: 575px;
+        border-radius: 20px;
+    }
+
+    .card3 {
+        display: none;
+    }
+}
+
 
 
 

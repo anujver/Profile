@@ -21,26 +21,24 @@ const Card = () => {
           <marquee behavior="" direction="left">
             <p>
               MongoDB , Express JS , React JS , Node JS , HTML , CSS ,
-              JavaScript
+              JavaScript , Tailwind CSS , Bootstrap , Redux
             </p>
           </marquee>
         </div>
       </div>
-      <a href="/about">
-        <div className="signature1 container">
-          {" "}
+      <div className="signature1 container">
+        <a href="/about">
           <p>MORE ABOUT ME</p>
           <h5>Credentials</h5>
-        </div>
-      </a>
-      <a href="/projects">
-        {" "}
-        <div className="signature2 container">
-          <div className="bg-image"></div>
+        </a>
+      </div>
+      <div className="signature2 container">
+        <div className="bg-image"></div>
+        <a href="/projects">
           <p>SHOWCASE</p>
           <h5>Projects</h5>
-        </div>
-      </a>
+        </a>
+      </div>
     </>
   );
 };

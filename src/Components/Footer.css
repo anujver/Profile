@@ -52,7 +52,25 @@ a:hover {
     margin-top: -37.5px;
 }
 
-
 .temprory {
     height: 50px;
+}
+
+@media (max-width: 768px) {
+    .footer h1 {
+        margin-left: 155px;
+        margin-top: -30px;
+    }
+
+    .home {
+        margin-left: 50px;
+    }
+
+    .footer p {
+        margin-left: 160px;
+    }
+
+    .footer .anuj {
+        margin-left: 320px;
+    }
 }

@@ -13,7 +13,7 @@ body{
 
 .Logo {
     color: white;
-    margin-left: 40px;
+    margin-left: 190px;
 }
 
 .Home {
@@ -45,9 +45,27 @@ body{
     .container {
         width: 100vw;
     }
-    
-    .navbar button {
-       margin-right: -150px;
+
+    .Logo {
+        margin-left: 140px;
+        margin-top: px;
+    }
+
+    .Home {
+        display: none;
+    }
+
+    .About {
+        display: none;
+    }
+
+    .Contact {
+        display: none;
+    }
+
+    .btn {
+        margin-left: 50px;
+        margin-top: -10px;
     }
 
 }
